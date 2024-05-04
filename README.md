@@ -10,7 +10,8 @@ This project will analyze sale data in the outlet for many brands among differen
 
 ## The Analysis Dashboard
 
-![Uploading Screenshot 2024-05-04 111400.png…]()
+![Screenshot 2024-05-04 111400](https://github.com/cloudtosunny/Data_Analysis/assets/148756513/cc28249e-ba97-4516-a78f-c63e20f35380)
+
 
 
 ## Excel Sheet
